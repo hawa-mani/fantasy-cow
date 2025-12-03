@@ -1,6 +1,6 @@
 {
     "name": "Example Cow",
-    "breed": "Highland",
-    "image": "images/example_cow.png",
+    "breed": "Example Highland",
+    "image": "images/example_cow.jpeg",
     "description": "A gentle and friendly cow that loves to graze in the meadow."
 }
